@@ -1,0 +1,96 @@
+.topcorner{
+  display: flex;
+  background-color: #D1EAA3;
+  flex direction: row;
+  justify-content: space-around;
+}
+.iphone11se{
+  display: inline-block;
+  background-color: #000000;
+}
+.iphonesepic{
+  height: 500px;
+  width: 1600px;
+}
+h1,h2{
+  color: #FFFFFF;
+}
+p{
+  color: #BBE1FA;
+}
+.iphone11{
+  background-color: #FFFFFF;
+}
+.black1{
+  color: #000000;
+  padding-left: 200px;
+}
+.black2{
+  color: #000000;
+  padding-left: 200px;
+}
+.blue{
+  color: #202060;
+  padding-left: 200px;
+}
+.iphone11pro{
+  display: inline-block;
+  background-color: #000000;
+}
+.imag{
+  height: 500px;
+  width: 1500px;
+}
+.gold{
+  height: 600px;
+  width: 1500px;
+}
+.imac{
+  background-color: #EBEBE3;
+  padding: 20px;
+}
+.imacpic{
+  height: 500px;
+  width: 700px;
+}
+.ipadpro{
+  background-color: #000000;
+  padding: 20px;
+}
+.ipadpropic{
+  height: 500px;
+  width: 700px;
+}
+.airpodpro{
+  background-color: #000000;
+  display: inline-block;
+}
+.pad{
+  padding-left: 200px;
+}
+.airpodpic{
+  height: 500px;
+  width: 700px;
+}
+.brown{
+  color: #810000;
+  padding-left: 100px;
+}
+.applewatch{
+  display: inline-block;
+}
+.watchpic{
+  height: 500px;
+  width: 700px;
+}
+.footer{
+  background-color: #F0ECE3;
+}
+.lowfooter{
+  list-style: none;
+  margin: 0px;
+  padding-left: 10px;
+}
+ul li{
+  display: inline;
+}
